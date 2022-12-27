@@ -1,4 +1,2 @@
 # silauoge.github.io
-<br> Building my first WebPage - silauoge.github.io
-
-Hello
+<br> Building my first WebPage - https://silauoge.github.io
